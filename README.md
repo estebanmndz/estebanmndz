@@ -1,67 +1,104 @@
 # Esteban Méndez
-Cloud Engineer en progreso | IT Technician | Automatización y Sistemas
 
-Bienvenido/a a mi perfil. Comparto proyectos y scripts relacionados con Azure, automatización, Linux, PowerShell, Bash, contenedores y administración de sistemas. Actualmente estoy avanzando en certificación Azure (AZ‑900 → AZ‑104) y construyendo un portfolio técnico basado en casos reales.
+☁️ Cloud Engineer en progreso | Automatización | Infraestructura | Azure
 
----
+Bienvenido a mi portfolio técnico. Aquí documento proyectos centrados en automatización, infraestructura cloud y administración de sistemas, con foco en Azure.
 
-## Sobre mí
-Técnico de IT con experiencia en soporte, sistemas y automatización. Mi objetivo es consolidarme como Cloud Engineer, especializándome en infraestructura, redes, identidad y automatización dentro de Azure.
-
-Me interesa especialmente:
-- Servicios cloud (Azure)
-- Automatización con PowerShell y Bash
-- Infraestructura como código
-- Seguridad y hardening
-- Contenedores y DevOps básico
+Actualmente estoy evolucionando desde roles de sistemas hacia Cloud Engineering, construyendo soluciones reales que simulan escenarios de producción.
 
 ---
 
-## Proyectos destacados
+## 🧠 Sobre mí
 
-### 1. Azure VM Deployment (PowerShell)  
-Automatización del despliegue completo de una máquina virtual en Azure: Resource Group, VNET, Subnet, IP pública, NIC y VM Ubuntu.  
-Repositorio: azure-create-vm
+Técnico de IT con experiencia en sistemas, soporte y automatización.
+Enfocado en desarrollar un perfil como **Cloud Engineer**, especializado en:
 
-### 2. Azure Orphan Resource Cleaner  
-Script para eliminar discos, IPs públicas y NICs huérfanas en Azure. Orientado a optimización de costes y mantenimiento.  
-Repositorio: azure-clean-orphans
+* ☁️ Infraestructura en Azure
+* ⚙️ Automatización (PowerShell / Bash)
+* 👤 Identidad (Entra ID)
+* 🔐 Seguridad y hardening
+* 🐳 Contenedores y despliegues
 
-### 3. Backup local a Azure Blob mediante AzCopy  
-Script en PowerShell para realizar backups automatizados hacia Azure Blob Storage.  
-Repositorio: azure-backup-blob
-
-### 4. Importación de usuarios en Azure AD (Entra ID)  
-Alta masiva de usuarios desde CSV usando Microsoft Graph PowerShell.  
-Repositorio: azure-ad-user-import
-
-### 5. Linux Monitoring  
-Script de monitorización básica para servidores Linux (CPU, RAM y disco).  
-Repositorio: linux-monitoring
-
-### 6. Linux Hardening  
-Endurecimiento básico de un sistema Linux con UFW, Fail2Ban y ajustes SSH.  
-Repositorio: linux-hardening
-
-### 7. Docker Auto Deploy  
-Instalación automatizada de Docker, Docker Compose y despliegue con contenedor NGINX.  
-Repositorio: docker-autodeploy
-
-### 8. Portfolio personal – estebanmndz.dev  
-Sitio web personal desplegado en Azure Static Web Apps, dominio personalizado y DNS gestionado con Cloudflare.  
-Repositorio: portfolio
+Trabajo activamente en proyectos que replican problemas reales: provisión de infraestructura, optimización de costes, backups, monitorización y seguridad.
 
 ---
 
-## Próximos pasos (en progreso)
-- Completar AZ‑104  
-- Proyecto de infraestructura completa en Azure (VNET, NSG, Bastion, LB, VM...)  
-- Proyecto con Terraform para IaC  
-- Añadir GitHub Actions para automatizar despliegues  
-- Consolidar prácticas de seguridad y automatización avanzada
+## 🚀 Proyectos destacados
+
+### ☁️ Azure VM Deployment (PowerShell)
+
+Despliegue completo de infraestructura IaaS en Azure con buenas prácticas: parametrización, idempotencia, NSG y tagging.
+📦 Repo: `azure-create-vm`
 
 ---
 
-## Contacto
-Web personal: https://estebanmndz.dev  
-GitHub: https://github.com/estebanmndz
+### 💸 Azure Orphan Resource Cleaner
+
+Detección y eliminación de recursos huérfanos (discos, NICs, IPs) orientado a **optimización de costes (FinOps)**.
+📦 Repo: `azure-clean-orphans`
+
+---
+
+### 💾 Backup a Azure Blob (AzCopy)
+
+Automatización de backups desde entorno local a Azure Blob Storage con logging y control de ejecución.
+📦 Repo: `azure-backup-blob`
+
+---
+
+### 👤 Gestión de usuarios en Entra ID
+
+Alta masiva de usuarios mediante Microsoft Graph PowerShell con validación y control de errores.
+📦 Repo: `azure-ad-user-import`
+
+---
+
+### 📊 Linux Monitoring
+
+Script de monitorización básica con métricas de CPU, RAM y disco + alertas simples.
+📦 Repo: `linux-monitoring`
+
+---
+
+### 🔐 Linux Hardening
+
+Aplicación de medidas de seguridad en sistemas Linux: firewall (UFW), Fail2Ban y configuración segura de SSH.
+📦 Repo: `linux-hardening`
+
+---
+
+### 🚀 Docker Auto Deploy
+
+Automatización de instalación y despliegue de contenedores con Docker y Docker Compose.
+📦 Repo: `docker-autodeploy`
+
+---
+
+### 🌐 Portfolio personal
+
+Web desplegada en Azure Static Web Apps con dominio personalizado y DNS gestionado.
+🔗 https://estebanmndz.dev
+📦 Repo: `portfolio`
+
+---
+
+## 🧭 En qué estoy trabajando ahora
+
+* 📘 Certificación Azure AZ-104
+* ☁️ Proyecto de infraestructura completa en Azure
+* 🧱 Infraestructura como código con Terraform
+* 🔄 Automatización con CI/CD (GitHub Actions)
+* 🔐 Mejora de seguridad en entornos cloud
+
+---
+
+## 🎯 Objetivo
+
+Dar el salto a un rol de **Cloud / Infrastructure Engineer**, aportando experiencia en automatización, sistemas y despliegue de soluciones en Azure.
+
+---
+
+## 📫 Contacto
+
+🌐 Web: https://estebanmndz.dev
+💻 GitHub: https://github.com/estebanmndz
