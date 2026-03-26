@@ -1,25 +1,25 @@
-# Esteban Méndez
+# 👋 Esteban Méndez
 
-☁️ Cloud Engineer en progreso | Automatización | Infraestructura | Azure
+☁️ Cloud Engineer (en transición) | Azure | Automatización | Infraestructura
 
-Bienvenido a mi portfolio técnico. Aquí documento proyectos centrados en automatización, infraestructura cloud y administración de sistemas, con foco en Azure.
-
-Actualmente estoy evolucionando desde roles de sistemas hacia Cloud Engineering, construyendo soluciones reales que simulan escenarios de producción.
+> 💡 Construyendo soluciones reales en Azure orientadas a automatización, seguridad y operaciones cloud
 
 ---
 
 ## 🧠 Sobre mí
 
-Técnico de IT con experiencia en sistemas, soporte y automatización.
-Enfocado en desarrollar un perfil como **Cloud Engineer**, especializado en:
+Soy técnico de sistemas en transición hacia **Cloud Engineering**, con experiencia práctica en automatización, infraestructura y operaciones.
+
+Actualmente desarrollo proyectos que simulan escenarios reales de producción, enfocados en:
 
 * ☁️ Infraestructura en Azure
 * ⚙️ Automatización (PowerShell / Bash)
-* 👤 Identidad (Entra ID)
-* 🔐 Seguridad y hardening
+* 👤 Identidad y gestión de usuarios (Entra ID)
+* 🔐 Seguridad (hardening, control de acceso)
+* 📊 Monitorización y operaciones
 * 🐳 Contenedores y despliegues
 
-Trabajo activamente en proyectos que replican problemas reales: provisión de infraestructura, optimización de costes, backups, monitorización y seguridad.
+Mi enfoque está en construir soluciones funcionales, seguras y automatizadas, alineadas con prácticas reales de entornos cloud.
 
 ---
 
@@ -27,56 +27,56 @@ Trabajo activamente en proyectos que replican problemas reales: provisión de in
 
 ### ☁️ Azure VM Deployment (PowerShell)
 
-Despliegue completo de infraestructura IaaS en Azure con buenas prácticas: parametrización, idempotencia, NSG y tagging.
+Provisionamiento completo de infraestructura IaaS en Azure (VNet, NSG, VM, tagging), simulando despliegues reales.
 📦 Repo: `azure-create-vm`
 
 ---
 
 ### 💸 Azure Orphan Resource Cleaner
 
-Detección y eliminación de recursos huérfanos (discos, NICs, IPs) orientado a **optimización de costes (FinOps)**.
+Automatización para detección y eliminación de recursos huérfanos → optimización de costes (**FinOps**).
 📦 Repo: `azure-clean-orphans`
 
 ---
 
 ### 💾 Backup a Azure Blob (AzCopy)
 
-Automatización de backups desde entorno local a Azure Blob Storage con logging y control de ejecución.
+Automatización de backups local → cloud con logging y ejecución controlada.
 📦 Repo: `azure-backup-blob`
 
 ---
 
-### 👤 Gestión de usuarios en Entra ID
+### 👤 Azure AD User Import (Microsoft Graph)
 
-Alta masiva de usuarios mediante Microsoft Graph PowerShell con validación y control de errores.
+Provisionamiento masivo de usuarios con validación, control de duplicados y manejo de errores.
 📦 Repo: `azure-ad-user-import`
 
 ---
 
-### 📊 Linux Monitoring
+### 📊 Linux Monitoring & Alerting
 
-Script de monitorización básica con métricas de CPU, RAM y disco + alertas simples.
+Monitorización de sistema con métricas + alertas basadas en thresholds.
 📦 Repo: `linux-monitoring`
 
 ---
 
 ### 🔐 Linux Hardening
 
-Aplicación de medidas de seguridad en sistemas Linux: firewall (UFW), Fail2Ban y configuración segura de SSH.
+Aplicación de baseline de seguridad (SSH, firewall, Fail2Ban) para reducción de superficie de ataque.
 📦 Repo: `linux-hardening`
 
 ---
 
-### 🚀 Docker Auto Deploy
+### 🐳 Docker Auto Deploy
 
-Automatización de instalación y despliegue de contenedores con Docker y Docker Compose.
+Automatización de instalación y despliegue de contenedores en Linux.
 📦 Repo: `docker-autodeploy`
 
 ---
 
 ### 🌐 Portfolio personal
 
-Web desplegada en Azure Static Web Apps con dominio personalizado y DNS gestionado.
+Web desplegada en Azure Static Web Apps con dominio personalizado.
 🔗 https://estebanmndz.dev
 📦 Repo: `portfolio`
 
@@ -84,9 +84,9 @@ Web desplegada en Azure Static Web Apps con dominio personalizado y DNS gestiona
 
 ## 🧭 En qué estoy trabajando ahora
 
-* 📘 Certificación Azure AZ-104
-* ☁️ Proyecto de infraestructura completa en Azure
-* 🧱 Infraestructura como código con Terraform
+* 📘 Preparación AZ-104
+* ☁️ Proyecto completo en Azure (infraestructura + seguridad + monitorización)
+* 🧱 Terraform (Infrastructure as Code)
 * 🔄 Automatización con CI/CD (GitHub Actions)
 * 🔐 Mejora de seguridad en entornos cloud
 
@@ -94,7 +94,7 @@ Web desplegada en Azure Static Web Apps con dominio personalizado y DNS gestiona
 
 ## 🎯 Objetivo
 
-Dar el salto a un rol de **Cloud / Infrastructure Engineer**, aportando experiencia en automatización, sistemas y despliegue de soluciones en Azure.
+Dar el salto a un rol de **Cloud / Infrastructure Engineer**, aportando experiencia práctica en automatización, sistemas y despliegue de soluciones en Azure.
 
 ---
 
