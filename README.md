@@ -1,104 +1,112 @@
 # 👋 Esteban Méndez
 
-☁️ Cloud Engineer (en transición) | Azure | Automatización | Infraestructura
+## 🚀 Cloud Portfolio – Azure | Terraform | Automation
 
-> 💡 Construyendo soluciones reales en Azure orientadas a automatización, seguridad y operaciones cloud
+☁️ Cloud Engineer (en transición) | Infraestructura | Automatización | Seguridad
 
----
-
-## 🧠 Sobre mí
-
-Soy técnico de sistemas en transición hacia **Cloud Engineering**, con experiencia práctica en automatización, infraestructura y operaciones.
-
-Actualmente desarrollo proyectos que simulan escenarios reales de producción, enfocados en:
-
-* ☁️ Infraestructura en Azure
-* ⚙️ Automatización (PowerShell / Bash)
-* 👤 Identidad y gestión de usuarios (Entra ID)
-* 🔐 Seguridad (hardening, control de acceso)
-* 📊 Monitorización y operaciones
-* 🐳 Contenedores y despliegues
-
-Mi enfoque está en construir soluciones funcionales, seguras y automatizadas, alineadas con prácticas reales de entornos cloud.
+> 💡 Building real-world cloud solutions focused on infrastructure, automation, security and operations
 
 ---
 
-## 🚀 Proyectos destacados
+## 🧠 About Me
 
-### ☁️ Azure VM Deployment (PowerShell)
+System administrator transitioning into **Cloud Engineering**, with hands-on experience in infrastructure, automation and system operations.
 
-Provisionamiento completo de infraestructura IaaS en Azure (VNet, NSG, VM, tagging), simulando despliegues reales.
-📦 Repo: `azure-create-vm`
+I focus on building practical solutions aligned with real-world cloud environments:
+
+* ☁️ Azure Infrastructure
+* 🧱 Infrastructure as Code (Terraform)
+* ⚙️ Automation (PowerShell / Bash)
+* 👤 Identity (Microsoft Entra ID)
+* 🔐 Security & Hardening
+* 📊 Monitoring & Operations
+* 🐳 Containers & Deployment
 
 ---
 
-### 💸 Azure Orphan Resource Cleaner
+## 🚀 Featured Projects
 
-Automatización para detección y eliminación de recursos huérfanos → optimización de costes (**FinOps**).
-📦 Repo: `azure-clean-orphans`
+### 🧱 Azure Infrastructure with Terraform (⭐ Featured)
+
+Provisioning a complete Azure environment using Infrastructure as Code (VNet, NSG, VM, Public IP).
+
+🔗 https://github.com/estebanmndz/terraform-azure-vm
 
 ---
 
-### 💾 Backup a Azure Blob (AzCopy)
+### 🖥️ Azure VM Deployment (PowerShell)
 
-Automatización de backups local → cloud con logging y ejecución controlada.
-📦 Repo: `azure-backup-blob`
+End-to-end infrastructure deployment including networking, security and compute resources.
+
+🔗 https://github.com/estebanmndz/azure-create-vm
 
 ---
 
 ### 👤 Azure AD User Import (Microsoft Graph)
 
-Provisionamiento masivo de usuarios con validación, control de duplicados y manejo de errores.
-📦 Repo: `azure-ad-user-import`
+Bulk user provisioning with validation, duplicate detection and error handling.
+
+🔗 https://github.com/estebanmndz/azure-ad-user-import
+
+---
+
+### 💸 Azure Orphan Resource Cleaner
+
+Automation for detecting and removing unused resources to optimize Azure costs (**FinOps**).
+
+🔗 https://github.com/estebanmndz/azure-clean-orphans
+
+---
+
+### 💾 Azure Blob Backup (AzCopy)
+
+Automated local-to-cloud backup with logging and controlled execution.
+
+🔗 https://github.com/estebanmndz/azure-backup-blob
 
 ---
 
 ### 📊 Linux Monitoring & Alerting
 
-Monitorización de sistema con métricas + alertas basadas en thresholds.
-📦 Repo: `linux-monitoring`
+System monitoring with metrics collection and threshold-based alerting.
+
+🔗 https://github.com/estebanmndz/linux-monitoring
 
 ---
 
 ### 🔐 Linux Hardening
 
-Aplicación de baseline de seguridad (SSH, firewall, Fail2Ban) para reducción de superficie de ataque.
-📦 Repo: `linux-hardening`
+Implementation of a security baseline (SSH hardening, firewall, Fail2Ban).
+
+🔗 https://github.com/estebanmndz/linux-hardening
 
 ---
 
-### 🐳 Docker Auto Deploy
+### 🐳 Docker Auto Deployment
 
-Automatización de instalación y despliegue de contenedores en Linux.
-📦 Repo: `docker-autodeploy`
+Automated container deployment on Linux using Docker and Docker Compose.
 
----
-
-### 🌐 Portfolio personal
-
-Web desplegada en Azure Static Web Apps con dominio personalizado.
-🔗 https://estebanmndz.dev
-📦 Repo: `portfolio`
+🔗 https://github.com/estebanmndz/docker-autodeploy
 
 ---
 
-## 🧭 En qué estoy trabajando ahora
+## 📈 Current Focus
 
-* 📘 Preparación AZ-104
-* ☁️ Proyecto completo en Azure (infraestructura + seguridad + monitorización)
+* 📘 AZ-104 preparation
 * 🧱 Terraform (Infrastructure as Code)
-* 🔄 Automatización con CI/CD (GitHub Actions)
-* 🔐 Mejora de seguridad en entornos cloud
+* 🔄 CI/CD (GitHub Actions)
+* 🔐 Cloud security improvements
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Goal
 
-Dar el salto a un rol de **Cloud / Infrastructure Engineer**, aportando experiencia práctica en automatización, sistemas y despliegue de soluciones en Azure.
+Transition into a **Cloud / Infrastructure Engineer role**, leveraging experience in automation, systems and Azure environments.
 
 ---
 
-## 📫 Contacto
+## 🌐 Portfolio
 
-🌐 Web: https://estebanmndz.dev
-💻 GitHub: https://github.com/estebanmndz
+🔗 https://estebanmndz.dev
+
+---
